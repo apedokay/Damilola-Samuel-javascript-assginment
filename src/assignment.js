@@ -22,7 +22,7 @@ function sumOfNumbers(arrayOfNumbers) {
     
     return arrayOfNumbers.length;
 }
-sumOfNumbers([36,46,27,89,37,104])
+sumOfNumbers([36,46,27,89,37,104,220])
 
 
 // assignment.sumOfNumbers = sumOfNumbers;
