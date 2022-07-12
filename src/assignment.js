@@ -25,7 +25,7 @@ function sumOfNumbers(arrayOfNumbers) {
 sumOfNumbers([36,46,27,89,37,104,220])
 
 
-// assignment.sumOfNumbers = sumOfNumbers;
+assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
